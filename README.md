@@ -1,2 +1,2 @@
-# portfolio
-Kamini_Patil Portfolio
+# Portfolio
+MyPortfolio
